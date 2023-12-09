@@ -6,16 +6,16 @@ As a related surrogate task, we train a deep recurrent neural network to identif
 
 
 ## Table of Contents
-* [Initial Project Plan](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Final-Project-Plan.ipynb)
-* [Building a model with Fake News Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
-* [Building a model with Liar Liar Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/load-liar-data.ipynb)
-* [Exploratory Data Analysis for News Category Dataset](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/For_ML_Project_news_exploratory_analysis.ipynb)
-* [Text Preprocessing and Apply to a Single Model](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-data-lstm.ipynb)
-* [Exploration of Various Model Structures](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-data-lstm-multi.ipynb)
-* [Model Comparison](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-data-alt-models.ipynb)
-* [News Articles Scraping Process](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/Scraping.ipynb)
-* [K Means Clustering with Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/K-means.ipynb)
-* [Final Model and Prediction on Scraped Data](https://github.com/jwoh1323/ML-Final-Prjoject-Group-6/blob/master/news-cat-final-model.ipynb)
+* [Initial Project Plan](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/Final-Project-Plan.ipynb)
+* [Building a model with Fake News Dataset](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/load-liar-data.ipynb)
+* [Building a model with Liar Liar Dataset](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/load-liar-data.ipynb)
+* [Exploratory Data Analysis for News Category Dataset](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/For_ML_Project_news_exploratory_analysis.ipynb)
+* [Text Preprocessing and Apply to a Single Model](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/news-cat-data-lstm-multi.ipynb)
+* [Exploration of Various Model Structures](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/news-cat-data-lstm-multi.ipynb)
+* [Model Comparison](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/news-cat-data-alt-models.ipynb)
+* [News Articles Scraping Process](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/Scraping.ipynb)
+* [K Means Clustering with Scraped Data](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/K-means.ipynb)
+* [Final Model and Prediction on Scraped Data](https://github.com/jwoh1323/News-Category-Detection-Project/blob/cb3c17d004c19a0d1ac17f172a4525200754fd6b/news-cat-final-model.ipynb)
 
 
 ## Dataset Info
