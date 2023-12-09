@@ -1,7 +1,3 @@
-# Machine Learning Final Prjoject for Group 6 
-
-*Jinwoo Oh, George Mathew, and Jonathan Culbert*
-
 **News Category Detection**
 
 Social media platforms have come under unwanted scrutiny in recent years for their role in perpetuating online misinformation, so-called “fake news.” As of this writing in May 2020, a flood of conspiracy theories and falsehoods about the Covid-19 pandemic have become a problem for Facebook and Twitter (Cellan-Jones 2020). In this project, we discuss a variety of means that have been proposed for social media companies to attempt to automate fake news detection. We look at the great difficulty involved in obtaining labeled training data for supervised learning to train deep neural networks in this task, and experience this difficulty first-hand as we unsuccessfully try to train a model to detect misinformation using a public dataset. 
