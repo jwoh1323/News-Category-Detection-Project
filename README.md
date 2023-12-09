@@ -42,12 +42,6 @@ Project is created with:
 * [MongoDB](https://www.mongodb.com/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 
-## Dropbox 
-
-All files here are also available in Dropbox. The link to our Dropbox as below. 
-
-* [Link to Dropbox](https://www.dropbox.com/sh/66n68vrkuz2uqf7/AAA-A_pbKJ15IdIX5NIL13R9a?dl=0)
-
 	
 ## Reference
 
