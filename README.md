@@ -1,4 +1,4 @@
-# News Category Detection**
+# News Category Detection
 
 Social media platforms have come under unwanted scrutiny in recent years for their role in perpetuating online misinformation, so-called “fake news.” As of this writing in May 2020, a flood of conspiracy theories and falsehoods about the Covid-19 pandemic have become a problem for Facebook and Twitter (Cellan-Jones 2020). In this project, I discuss a variety of means that have been proposed for social media companies to attempt to automate fake news detection. I look at the great difficulty involved in obtaining labeled training data for supervised learning to train deep neural networks in this task, and experience this difficulty first-hand as I unsuccessfully try to train a model to detect misinformation using a public dataset.
 
